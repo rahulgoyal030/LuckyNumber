@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LuckyNumber</string>
+    <string name="Birthdate">Please Select your Date of Birth</string>
+    <string name="SubmitButton">Select Date</string>
+    <string name="your_lucky_number">Your Lucky Number is</string>
+    <string name="check_again">Check Again</string>
+    <string name="luckyvalue">0</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
